@@ -1,0 +1,14 @@
+20230305	12:54:43	638c48f4-0496-4445-ae0e-0b54ef0c56bd	Error: Not allowed by CORS
+20230306	01:16:12	4b5531a6-4c95-4abd-8901-f54db3bd7977	TypeError: Cannot read properties of undefined (reading 'id')
+20230306	01:16:47	d36aac49-2311-41cc-820f-0696578b3c28	TypeError: Cannot read properties of undefined (reading 'id')
+20230306	11:18:47	6a6cf9f9-2188-428e-82ea-64b4fe88fb46	SyntaxError: Unexpected token e in JSON at position 0
+20230307	09:15:29	fe2e18cd-e205-4571-b9d1-69016d9d7f69	ReferenceError: whitelist is not defined
+20230307	09:15:29	6868eaf9-2d9e-40e3-a3fe-dca142d24916	ReferenceError: whitelist is not defined
+20230307	09:15:30	e122ae34-d6f9-4c6b-b7a3-bbae34eba8a9	ReferenceError: whitelist is not defined
+20230307	09:15:30	a886d0c4-8b7a-4cba-92a5-daa5fd9e03f5	ReferenceError: whitelist is not defined
+20230307	09:15:41	24f4cf53-61cd-4ac9-9ea6-f3dd3652cfd4	ReferenceError: whitelist is not defined
+20230307	09:15:41	3be0b2bd-9878-4a8a-9d8b-26e250660598	ReferenceError: whitelist is not defined
+20230307	09:15:47	30ce6f8b-447e-40ce-9517-23e13529ccbf	ReferenceError: whitelist is not defined
+20230307	09:15:47	0b831530-b2a0-4211-9331-9d189d202b13	ReferenceError: whitelist is not defined
+20230307	09:17:16	b5a076ed-4354-44c1-83d3-489bfe27195b	ReferenceError: whitelist is not defined
+20230307	09:17:16	c0e58273-176a-4ed5-9b18-4c7350c9f728	ReferenceError: whitelist is not defined

@@ -1,0 +1,7 @@
+To get your access token and refresh token
+type in 'node' in ur terminal
+type in the following code and press enter (require('crypto').randomBytes(64).toString('hex'))
+copy the code and paste in your access token
+click up arrow to copy it down
+press enter again
+copy the code and paste in your refresh token

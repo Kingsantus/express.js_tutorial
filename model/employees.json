@@ -1,0 +1,5 @@
+[  
+  {    "id": 1,    "name": "king",    "age": 26,    "city": "Edo",    "hobbies": "coding"  },  
+  {    "id": 2,    "name": "John",    "age": 24,    "city": "uyo",    "hobbies": "chatting"  },  
+  {    "id": 3,    "name": "joy",    "age": 21,    "city": "imo",    "hobbies": "cooking"  }
+]
